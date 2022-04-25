@@ -18,6 +18,6 @@ Users should be able to:
 
 ## 😓 What I Struggle With
 
-1. Positioning of elements (CSS Units/Margin/Padding)
-2. Javascript methods (Read JS Documentation!)
+1. Positioning of elements (CSS Units/Margin/Padding/Inheritance)
+2. DOM Manipulation (Read JS Documentation!)
 3. HTML Dataset (Read HTML Documentation!)
