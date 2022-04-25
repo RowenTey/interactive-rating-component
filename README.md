@@ -11,6 +11,12 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
+## 📸 Screenshots
+
+![front](./images/screenshot-front.png)
+<br>
+![back](./images/screenshot-back.png)
+
 ## 🔗 Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-S1n-EXESq)
