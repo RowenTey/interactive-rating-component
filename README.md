@@ -22,7 +22,7 @@ Users should be able to:
 - [Solution URL](https://www.frontendmentor.io/solutions/interactive-rating-component-using-css-flexbox-S1n-EXESq)
 - [Live Site URL](https://ks-interactive-rating-component.netlify.app/)
 
-## 😓 What I Struggle With
+## 😓 What I Struggled With
 
 1. Positioning of elements (CSS Units/Margin/Padding/Inheritance)
 2. DOM Manipulation (Read JS Documentation!)
