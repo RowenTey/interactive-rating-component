@@ -186,3 +186,9 @@ body {
 .attribution a {
     color: var(--Orange);
 }
+
+@media (max-width:414px) {
+    .card {
+        width: 80%;
+    }
+}
